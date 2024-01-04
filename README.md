@@ -1,2 +1,2 @@
-# homelab
-BrosOnly "Homelab Jawn" 12/27/2023
+# broslab
+BrosOnly "Broslab Jawn" 12/27/2023
